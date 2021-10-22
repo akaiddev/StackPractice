@@ -210,8 +210,7 @@ pre {
 }
 
 /* Features */
-.features-head img,
-.docs-head img {
+.features-head img {
   width: 200px;
   justify-self: flex-end;
 }
@@ -361,8 +360,7 @@ pre {
   }
 
   .features-head img,
-  .features-sub-head img,
-  .docs-head img {
+  .features-sub-head img {
     justify-self: center;
   }
 
