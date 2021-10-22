@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className='footer bg-dark py-5'>
       <div className='container grid grid-3'>
         <div>
-          <h1>Stack Coders</h1>
+          <h1>Stack</h1>
           <p>Copyright © {new Date().getFullYear()}</p>
         </div>
         <nav>
