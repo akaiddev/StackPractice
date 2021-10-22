@@ -6,7 +6,7 @@ import Head from '../components/Head';
 const Docs = () => {
   return (
     <>
-      <Head title='Documentation' img={server2} lead='Learn how to work with the Loruki platform' />
+      <Head title='Documentation' img={server2} lead='Learn how to work with the Stack platform' />
       <DocsMain />
     </>
   );

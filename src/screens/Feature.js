@@ -7,7 +7,7 @@ import SubHead from '../components/SubHead'
 const Feature = () => {
   return (
     <>
-      <Head title='Features' img={server} lead='Check out the features of Loruki that separate us from the competition' />
+      <Head title='Features' img={server} lead='Check out the features of Stack that separate us from the competition' />
       <SubHead />
       <Features />
     </>

@@ -15,7 +15,7 @@ const DocsMain = () => {
                 </Link>
               </li>
               <li>
-                <Link to='/'>About Loruki</Link>
+                <Link to='/'>About Stack</Link>
               </li>
               <li>
                 <Link to='/'>Installation</Link>
@@ -62,17 +62,17 @@ const DocsMain = () => {
           <h3>Install</h3>
           <p>Mac (Homebrew)</p>
           <pre>
-            <code>$ brew install loruki-cli</code>
+            <code>$ brew install Stack-cli</code>
             {'\n'}
           </pre>
           <p>NPM</p>
           <pre>
-            <code>$ npm install loruki-cli</code>
+            <code>$ npm install Stack-cli</code>
             {'\n'}
           </pre>
           <p>Yarn</p>
           <pre>
-            <code>$ yarn install loruki-cli</code>
+            <code>$ yarn install Stack-cli</code>
             {'\n'}
           </pre>
         </div>
