@@ -17,7 +17,7 @@ const Showcase = () => {
         </div>
         <div className='showcase-form card'>
           <h2>Request a Demo</h2>
-          <form>
+          <form autoComplete='off'>
             <div className='form-control'>
               <input type='text' name='name' placeholder='Name' required />
             </div>
