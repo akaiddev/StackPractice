@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 const Showcase = () => {
   return (
@@ -10,9 +11,9 @@ const Showcase = () => {
             Deploy web apps of all kinds, from large scale enterprise APIs to static websites for individuals. Fill out the form to try a demo of our
             platform
           </p>
-          <a href='features.html' className='btn btn-outline'>
+          <Link to='/' className='btn btn-outline'>
             Read More
-          </a>
+          </Link>
         </div>
         <div className='showcase-form card'>
           <h2>Request a Demo</h2>
