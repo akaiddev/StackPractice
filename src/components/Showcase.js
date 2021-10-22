@@ -11,7 +11,7 @@ const Showcase = () => {
             Deploy web apps of all kinds, from large scale enterprise APIs to static websites for individuals. Fill out the form to try a demo of our
             platform
           </p>
-          <Link to='/' className='btn btn-outline'>
+          <Link to='/feature' className='btn btn-outline'>
             Read More
           </Link>
         </div>

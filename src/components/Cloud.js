@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import cloud from '../assets/cloud.png'
 
 const Cloud = () => {
@@ -8,9 +9,9 @@ const Cloud = () => {
         <div className='text-center'>
           <h2 className='lg'>Extreme Cloud Hosting</h2>
           <p className='lead my-1'>Cloud hosting like you've never seen. Fast, efficient and scalable</p>
-          <a href='features.html' className='btn btn-dark'>
+          <Link to='/feature' className='btn btn-dark'>
             Read More
-          </a>
+          </Link>
         </div>
         <img src={cloud} alt='cloud' />
       </div>
